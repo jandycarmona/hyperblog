@@ -1,8 +1,0 @@
-Este es un nuevo texto.
-
-Tercera línea.
-
-Quinta línea.
-
-
-Octava línea.
